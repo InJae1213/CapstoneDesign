@@ -9,7 +9,9 @@
 <li>
   <ul>YOLO</ul>
   <ul>OpenCV</ul>
-  <ul>Darknet<saadtfxgryt
+  <ul>Darknet</ul>
+  <ul>React</ul>
+  
 <h2>시스템 구조도</h2>
 
 <h3>Branch</h3>
